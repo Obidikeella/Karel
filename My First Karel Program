@@ -1,0 +1,13 @@
+import stanford.karel.*;
+
+public class FirstKarel extends SuperKarel {
+    public void run() {
+        // Write your code below.
+move();
+move();
+move();
+move();
+pickBeeper();       
+        
+   } 
+}
