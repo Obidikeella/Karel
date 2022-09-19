@@ -1,0 +1,55 @@
+import stanford.karel.*;
+
+public class Karel2026 extends SuperKarel {
+    public void run() {
+        // Write your code below.
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+move();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+putBeeper();
+move();
+   } 
+}
